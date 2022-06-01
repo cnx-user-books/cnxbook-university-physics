@@ -1,0 +1,577 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11994</md:content-id>
+    <md:title>University Physics</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>74fd2873-157d-4392-bf01-2fccab830f2c</md:uuid>
+<md:slug>university-physics</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Mechanics</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Chapter 1 Units and Measurement</md:title>
+          <col:content>
+            <col:module document="m58268"/>
+            <col:module document="m58269"/>
+            <col:module document="m58271"/>
+            <col:module document="m58272"/>
+            <col:module document="m58273"/>
+            <col:module document="m58274"/>
+            <col:module document="m58275"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 2 Vectors</md:title>
+          <col:content>
+            <col:module document="m58276"/>
+            <col:module document="m58277"/>
+            <col:module document="m58278"/>
+            <col:module document="m58279"/>
+            <col:module document="m58280"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 3 Motion Along a Straight Line</md:title>
+          <col:content>
+            <col:module document="m58281"/>
+            <col:module document="m58282"/>
+            <col:module document="m58283"/>
+            <col:module document="m58284"/>
+            <col:module document="m58285"/>
+            <col:module document="m58286"/>
+            <col:module document="m58287"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 4 Motion in Two and Three Dimensions</md:title>
+          <col:content>
+            <col:module document="m58288"/>
+            <col:module document="m58289"/>
+            <col:module document="m58290"/>
+            <col:module document="m58291"/>
+            <col:module document="m58292"/>
+            <col:module document="m58293"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 5 Newton's Laws of Motion</md:title>
+          <col:content>
+            <col:module document="m58294"/>
+            <col:module document="m58295"/>
+            <col:module document="m58296"/>
+            <col:module document="m58297"/>
+            <col:module document="m58298"/>
+            <col:module document="m58299"/>
+            <col:module document="m58300"/>
+            <col:module document="m58301"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 6 Applications of Newton's Laws</md:title>
+          <col:content>
+            <col:module document="m58302"/>
+            <col:module document="m58303"/>
+            <col:module document="m58304"/>
+            <col:module document="m58305"/>
+            <col:module document="m58306"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 7 Work and Kinetic Energy</md:title>
+          <col:content>
+            <col:module document="m58307"/>
+            <col:module document="m58719"/>
+            <col:module document="m58308"/>
+            <col:module document="m58309"/>
+            <col:module document="m58310"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 8 Potential Energy and Conservation of Energy</md:title>
+          <col:content>
+            <col:module document="m58311"/>
+            <col:module document="m58312"/>
+            <col:module document="m58313"/>
+            <col:module document="m58314"/>
+            <col:module document="m58315"/>
+            <col:module document="m58661"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 9 Linear Momentum and Collisions</md:title>
+          <col:content>
+            <col:module document="m58317"/>
+            <col:module document="m58318"/>
+            <col:module document="m58319"/>
+            <col:module document="m58320"/>
+            <col:module document="m58321"/>
+            <col:module document="m58322"/>
+            <col:module document="m58323"/>
+            <col:module document="m58324"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 10 Fixed-Axis Rotation</md:title>
+          <col:content>
+            <col:module document="m58325"/>
+            <col:module document="m58326"/>
+            <col:module document="m58327"/>
+            <col:module document="m58328"/>
+            <col:module document="m58329"/>
+            <col:module document="m58330"/>
+            <col:module document="m58331"/>
+            <col:module document="m58332"/>
+            <col:module document="m58333"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 11 Angular Momentum</md:title>
+          <col:content>
+            <col:module document="m58334"/>
+            <col:module document="m58335"/>
+            <col:module document="m58336"/>
+            <col:module document="m58337"/>
+            <col:module document="m58338"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 12 Static Equilibrium and Elasticity</md:title>
+          <col:content>
+            <col:module document="m58339"/>
+            <col:module document="m58340"/>
+            <col:module document="m58342"/>
+            <col:module document="m58343"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 13 Gravitation</md:title>
+          <col:content>
+            <col:module document="m58344"/>
+            <col:module document="m58345"/>
+            <col:module document="m58346"/>
+            <col:module document="m58347"/>
+            <col:module document="m58348"/>
+            <col:module document="m58350"/>
+            <col:module document="m58352"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 14 Fluid Mechanics</md:title>
+          <col:content>
+            <col:module document="m58624"/>
+            <col:module document="m58353"/>
+            <col:module document="m58354"/>
+            <col:module document="m58355"/>
+            <col:module document="m58356"/>
+            <col:module document="m58357"/>
+            <col:module document="m58358"/>
+            <col:module document="m58359"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Waves and Acoustics</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Chapter 15 Oscillations</md:title>
+          <col:content>
+            <col:module document="m58360"/>
+            <col:module document="m58361"/>
+            <col:module document="m58362"/>
+            <col:module document="m58363"/>
+            <col:module document="m58364"/>
+            <col:module document="m58365"/>
+            <col:module document="m58366"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 16 Waves</md:title>
+          <col:content>
+            <col:module document="m58367"/>
+            <col:module document="m58368"/>
+            <col:module document="m58369"/>
+            <col:module document="m58370"/>
+            <col:module document="m58371"/>
+            <col:module document="m58372"/>
+            <col:module document="m58373"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 17 Sound</md:title>
+          <col:content>
+            <col:module document="m58374"/>
+            <col:module document="m58375"/>
+            <col:module document="m58376"/>
+            <col:module document="m58377"/>
+            <col:module document="m58378"/>
+            <col:module document="m58379"/>
+            <col:module document="m58380"/>
+            <col:module document="m58381"/>
+            <col:module document="m58382"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Thermodynamics</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Chapter 18 Temperature and Heat</md:title>
+          <col:content>
+            <col:module document="m58383"/>
+            <col:module document="m58384"/>
+            <col:module document="m58385"/>
+            <col:module document="m58386"/>
+            <col:module document="m58387"/>
+            <col:module document="m58388"/>
+            <col:module document="m58389"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 19 The Kinetic Theory of Gases</md:title>
+          <col:content>
+            <col:module document="m58390"/>
+            <col:module document="m58391"/>
+            <col:module document="m58392"/>
+            <col:module document="m58393"/>
+            <col:module document="m58394"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 20 The First Law of Thermodynamics</md:title>
+          <col:content>
+            <col:module document="m58721"/>
+            <col:module document="m58395"/>
+            <col:module document="m58396"/>
+            <col:module document="m58397"/>
+            <col:module document="m58399"/>
+            <col:module document="m58400"/>
+            <col:module document="m58401"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 21 The Second Law of Thermodynamics</md:title>
+          <col:content>
+            <col:module document="m58402"/>
+            <col:module document="m58403"/>
+            <col:module document="m58404"/>
+            <col:module document="m58653"/>
+            <col:module document="m58405"/>
+            <col:module document="m58406"/>
+            <col:module document="m58407"/>
+            <col:module document="m58408"/>
+            <col:module document="m58409"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electricity and Magnetism</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Chapter 22 Electric Charges and Fields</md:title>
+          <col:content>
+            <col:module document="m58410"/>
+            <col:module document="m58412"/>
+            <col:module document="m58413"/>
+            <col:module document="m58415"/>
+            <col:module document="m58722"/>
+            <col:module document="m58416"/>
+            <col:module document="m58417"/>
+            <col:module document="m58418"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 23 Gauss's Law</md:title>
+          <col:content>
+            <col:module document="m58422"/>
+            <col:module document="m58423"/>
+            <col:module document="m58424"/>
+            <col:module document="m58425"/>
+            <col:module document="m58426"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 24 Electric Potential</md:title>
+          <col:content>
+            <col:module document="m58427"/>
+            <col:module document="m58429"/>
+            <col:module document="m58430"/>
+            <col:module document="m58431"/>
+            <col:module document="m58433"/>
+            <col:module document="m58723"/>
+            <col:module document="m58778"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 25 Capacitance</md:title>
+          <col:content>
+            <col:module document="m58447"/>
+            <col:module document="m58448"/>
+            <col:module document="m58449"/>
+            <col:module document="m58450"/>
+            <col:module document="m58451"/>
+            <col:module document="m58452"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 26 Current and Resistance</md:title>
+          <col:content>
+            <col:module document="m58728"/>
+            <col:module document="m58729"/>
+            <col:module document="m58730"/>
+            <col:module document="m58731"/>
+            <col:module document="m58732"/>
+            <col:module document="m58734"/>
+            <col:module document="m58735"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 27 Direct-Current Circuits</md:title>
+          <col:content>
+            <col:module document="m58736"/>
+            <col:module document="m58453"/>
+            <col:module document="m58454"/>
+            <col:module document="m58455"/>
+            <col:module document="m58456"/>
+            <col:module document="m58457"/>
+            <col:module document="m58458"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 28 Magnetic Forces and Fields</md:title>
+          <col:content>
+            <col:module document="m58737"/>
+            <col:module document="m58738"/>
+            <col:module document="m58739"/>
+            <col:module document="m58740"/>
+            <col:module document="m58742"/>
+            <col:module document="m58743"/>
+            <col:module document="m58744"/>
+            <col:module document="m58745"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 29 Sources of Magnetic Fields</md:title>
+          <col:content>
+            <col:module document="m58459"/>
+            <col:module document="m58460"/>
+            <col:module document="m58461"/>
+            <col:module document="m58462"/>
+            <col:module document="m58464"/>
+            <col:module document="m58465"/>
+            <col:module document="m58466"/>
+            <col:module document="m58467"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 30 Electromagnetic Induction</md:title>
+          <col:content>
+            <col:module document="m58468"/>
+            <col:module document="m58472"/>
+            <col:module document="m58476"/>
+            <col:module document="m58477"/>
+            <col:module document="m58479"/>
+            <col:module document="m58480"/>
+            <col:module document="m58481"/>
+            <col:module document="m58482"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 31 Inductance</md:title>
+          <col:content>
+            <col:module document="m58746"/>
+            <col:module document="m58747"/>
+            <col:module document="m58748"/>
+            <col:module document="m58751"/>
+            <col:module document="m58752"/>
+            <col:module document="m58754"/>
+            <col:module document="m58756"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 32 Alternating-Current Circuits</md:title>
+          <col:content>
+            <col:module document="m58483"/>
+            <col:module document="m58484"/>
+            <col:module document="m58485"/>
+            <col:module document="m58658"/>
+            <col:module document="m58490"/>
+            <col:module document="m58492"/>
+            <col:module document="m58494"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 33 Electromagnetic Waves</md:title>
+          <col:content>
+            <col:module document="m58495"/>
+            <col:module document="m58496"/>
+            <col:module document="m58498"/>
+            <col:module document="m58500"/>
+            <col:module document="m58501"/>
+            <col:module document="m58503"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Optics</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Chapter 34 The Nature of Light</md:title>
+          <col:content>
+            <col:module document="m58504"/>
+            <col:module document="m58505"/>
+            <col:module document="m58509"/>
+            <col:module document="m58510"/>
+            <col:module document="m58511"/>
+            <col:module document="m58512"/>
+            <col:module document="m58523"/>
+            <col:module document="m58525"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 35 Geometric Optics and Image Formation</md:title>
+          <col:content>
+            <col:module document="m58526"/>
+            <col:module document="m58527"/>
+            <col:module document="m58528"/>
+            <col:module document="m58529"/>
+            <col:module document="m58531"/>
+            <col:module document="m58532"/>
+            <col:module document="m58533"/>
+            <col:module document="m58534"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 36 Interference</md:title>
+          <col:content>
+            <col:module document="m58536"/>
+            <col:module document="m58537"/>
+            <col:module document="m58538"/>
+            <col:module document="m58539"/>
+            <col:module document="m58540"/>
+            <col:module document="m58541"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 37 Diffraction</md:title>
+          <col:content>
+            <col:module document="m58542"/>
+            <col:module document="m58543"/>
+            <col:module document="m58544"/>
+            <col:module document="m58623"/>
+            <col:module document="m58548"/>
+            <col:module document="m58664"/>
+            <col:module document="m58552"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Modern Physics</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Chapter 38 Relativity</md:title>
+          <col:content>
+            <col:module document="m58555"/>
+            <col:module document="m58556"/>
+            <col:module document="m58656"/>
+            <col:module document="m58563"/>
+            <col:module document="m58565"/>
+            <col:module document="m58568"/>
+            <col:module document="m58569"/>
+            <col:module document="m58570"/>
+            <col:module document="m58571"/>
+            <col:module document="m58572"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 39 Photons and Matter Waves</md:title>
+          <col:content>
+            <col:module document="m58757"/>
+            <col:module document="m58761"/>
+            <col:module document="m58762"/>
+            <col:module document="m58763"/>
+            <col:module document="m58764"/>
+            <col:module document="m58765"/>
+            <col:module document="m58766"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 40 Quantum Mechanics</md:title>
+          <col:content>
+            <col:module document="m58573"/>
+            <col:module document="m58576"/>
+            <col:module document="m58578"/>
+            <col:module document="m58579"/>
+            <col:module document="m58580"/>
+            <col:module document="m58581"/>
+            <col:module document="m58582"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 41 Atomic Structure</md:title>
+          <col:content>
+            <col:module document="m58583"/>
+            <col:module document="m58584"/>
+            <col:module document="m58585"/>
+            <col:module document="m58586"/>
+            <col:module document="m58587"/>
+            <col:module document="m58590"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 42 Condensed Matter Physics</md:title>
+          <col:content>
+            <col:module document="m58591"/>
+            <col:module document="m58592"/>
+            <col:module document="m58593"/>
+            <col:module document="m58594"/>
+            <col:module document="m58596"/>
+            <col:module document="m58599"/>
+            <col:module document="m58600"/>
+            <col:module document="m58601"/>
+            <col:module document="m58602"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 43 Nuclear Physics</md:title>
+          <col:content>
+            <col:module document="m58606"/>
+            <col:module document="m58607"/>
+            <col:module document="m58608"/>
+            <col:module document="m58609"/>
+            <col:module document="m58610"/>
+            <col:module document="m58611"/>
+            <col:module document="m58613"/>
+            <col:module document="m58614"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chapter 44 Particle Physics and Cosmology</md:title>
+          <col:content>
+            <col:module document="m58767"/>
+            <col:module document="m58768"/>
+            <col:module document="m58770"/>
+            <col:module document="m58771"/>
+            <col:module document="m58772"/>
+            <col:module document="m58774"/>
+            <col:module document="m58775"/>
+            <col:module document="m58776"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m58777"/>
+    <col:module document="m58615"/>
+    <col:module document="m58616"/>
+    <col:module document="m58617"/>
+    <col:module document="m58619"/>
+    <col:module document="m58620"/>
+  </col:content>
+</col:collection>

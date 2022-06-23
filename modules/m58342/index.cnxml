@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58342</md:content-id>
   <md:title>Stress, Strain, and Elastic Modulus</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Explain the concepts of stress and strain in describing elastic deformations of materials</item>
 <item>Describe the types of elastic deformation of objects and materials</item>
@@ -288,7 +288,7 @@ Similarly as in the example with the column, the tensile stress in this example 
 <caption>Steel I-beams are used in construction to reduce bending strains. (credit: modification of work by “US Army Corps of Engineers Europe District”/Flickr)</caption>
 </figure>
 <note id="fs-id1163713365603" class="media-2">
-<para id="fs-id1163709752460">A heavy box rests on a table supported by three columns. View this <link url="https://openstax.org/l/21movebox">demonstration</link> to move the box to see how the compression (or tension) in the columns is affected when the box changes its position.</para>
+<para id="fs-id1163709752460">A heavy box rests on a table supported by three columns. View this <link url="https://openstaxcollege.org/l/21movebox">demonstration</link> to move the box to see how the compression (or tension) in the columns is affected when the box changes its position.</para>
 </note>
 </section>
 <section id="fs-id1163713009441">
@@ -303,7 +303,7 @@ Similarly as in the example with the column, the tensile stress in this example 
 </figure>
 <para id="fs-id1163713283449">The bulk strain results from the bulk stress, which is a force <m:math><m:mrow><m:msub><m:mi>F</m:mi><m:mo>⊥</m:mo></m:msub></m:mrow></m:math> normal to a surface that presses on the unit surface area <emphasis effect="italics">A</emphasis> of a submerged object. This kind of physical quantity, or pressure <emphasis effect="italics">p</emphasis>, is defined as</para>
 <equation id="fs-id1163709828123"><m:math><m:mrow><m:mtext>pressure</m:mtext><m:mo>=</m:mo><m:mi>p</m:mi><m:mo>≡</m:mo><m:mfrac><m:mrow><m:msub><m:mi>F</m:mi><m:mo>⊥</m:mo></m:msub></m:mrow><m:mi>A</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
-<para id="fs-id1163713365776">We will study pressure in fluids in greater detail in <link document="m58624">Fluid Mechanics</link>. An important characteristic of pressure is that it is a scalar quantity and does not have any particular direction; that is, pressure acts equally in all possible directions. When you submerge your hand in water, you sense the same amount of pressure acting on the top surface of your hand as on the bottom surface, or on the side surface, or on the surface of the skin between your fingers. What you are perceiving in this case is an increase in pressure <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>p</m:mi></m:mrow></m:math> over what you are used to feeling when your hand is not submerged in water. What you feel when your hand is not submerged in the water is the <term>normal pressure</term> <m:math><m:mrow><m:msub><m:mi>p</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:math> of one atmosphere, which serves as a reference point. The bulk stress is this increase in pressure, or <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mo>,</m:mo></m:mrow></m:math> over the normal level, <m:math><m:mrow><m:msub><m:mi>p</m:mi><m:mn>0</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1163713365776">We will study pressure in fluids in greater detail in <link class="target-chapter" document="m58624">Fluid Mechanics</link>. An important characteristic of pressure is that it is a scalar quantity and does not have any particular direction; that is, pressure acts equally in all possible directions. When you submerge your hand in water, you sense the same amount of pressure acting on the top surface of your hand as on the bottom surface, or on the side surface, or on the surface of the skin between your fingers. What you are perceiving in this case is an increase in pressure <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>p</m:mi></m:mrow></m:math> over what you are used to feeling when your hand is not submerged in water. What you feel when your hand is not submerged in the water is the <term>normal pressure</term> <m:math><m:mrow><m:msub><m:mi>p</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:math> of one atmosphere, which serves as a reference point. The bulk stress is this increase in pressure, or <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mo>,</m:mo></m:mrow></m:math> over the normal level, <m:math><m:mrow><m:msub><m:mi>p</m:mi><m:mn>0</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1163713171222">When the bulk stress increases, the bulk strain increases in response, in accordance with <link target-id="fs-id1163713135600"/>. The proportionality constant in this relation is called the bulk modulus, <emphasis effect="italics">B</emphasis>, or</para>
 <note id="fs-id1163713354845" class="equation-callout">
 <equation id="fs-id1163713354848"><m:math><m:mrow><m:mi>B</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>bulk stress</m:mtext></m:mrow><m:mrow><m:mtext>bulk strain</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:mi>p</m:mi></m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>V</m:mi><m:mspace width="0.1em"/><m:mtext>/</m:mtext><m:mspace width="0.1em"/><m:msub><m:mi>V</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:mtext>−</m:mtext><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>V</m:mi><m:mn>0</m:mn></m:msub></m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>V</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
@@ -466,7 +466,8 @@ If the person in this example gave the shelf a healthy push, it might happen tha
 <para id="fs-id1163709673464">The “lead” in pencils is a graphite composition with a Young’s modulus of approximately <m:math><m:mrow><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>9</m:mn></m:msup><m:mrow><m:mtext>N</m:mtext><m:mspace width="0.1em"/><m:mtext>/</m:mtext><m:mspace width="0.1em"/><m:mrow><m:msup><m:mtext>m</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:mrow><m:mo>.</m:mo></m:mrow></m:math> Calculate the change in length of the lead in an automatic pencil if you tap it straight into the pencil with a force of 4.0 N. The lead is 0.50 mm in diameter and 60 mm long.</para>
 </problem>
 <solution id="fs-id1163709736795">
-<para id="fs-id1163709704982">1.2 mm</para></solution>
+<para id="fs-id1163709704982">0.3 mm</para>
+</solution>
 </exercise>
 <exercise id="fs-id1163709704987">
 <problem id="fs-id1163709668462">
@@ -599,7 +600,7 @@ If the person in this example gave the shelf a healthy push, it might happen tha
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1163713087228">
 <term>bulk modulus</term>

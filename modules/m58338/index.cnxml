@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58338</md:content-id>
   <md:title>Precession of a Gyroscope</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
 <item>Describe the physical processes underlying the phenomenon of precession</item>
 <item>Calculate the precessional angular velocity of a gyroscope</item>
 </list></md:abstract>
@@ -12,7 +13,8 @@
 </metadata>
 
 <content>
-<para id="fs-id1165036830130"><link target-id="CNX_UPhysics_11_04_Gyroscope"/> shows a <term class="no-emphasis">gyroscope</term>, defined as a spinning disk in which the axis of rotation is free to assume any orientation. When spinning, the orientation of the spin axis is unaffected by the orientation of the body that encloses it. The body or vehicle enclosing the gyroscope can be moved from place to place and the orientation of the spin axis will remain the same. This makes gyroscopes very useful in navigation, especially where magnetic compasses can’t be used, such as in piloted and unpiloted spacecrafts, intercontinental ballistic missiles, unmanned aerial vehicles, and satellites like the Hubble Space Telescope.</para><figure id="CNX_UPhysics_11_04_Gyroscope">
+<para id="fs-id1165036830130"><link target-id="CNX_UPhysics_11_04_Gyroscope"/> shows a <term class="no-emphasis">gyroscope</term>, defined as a spinning disk in which the axis of rotation is free to assume any orientation. When spinning, the orientation of the spin axis is unaffected by the orientation of the body that encloses it. The body or vehicle enclosing the gyroscope can be moved from place to place and the orientation of the spin axis will remain the same. This makes gyroscopes very useful in navigation, especially where magnetic compasses can’t be used, such as in manned and unmanned spacecraft, intercontinental ballistic missiles, unmanned aerial vehicles, and satellites like the Hubble Space Telescope.</para>
+<figure id="CNX_UPhysics_11_04_Gyroscope">
 <media id="fs-id1165036900957" alt="A drawing of a gyroscope, consisting of a disk that can spin on an shaft, perpendicular to the plane of the disk and through its center. Two rings surround the gyroscope. One is attached to the shaft above and below the disk, and the other is attached to the first ring and is in the plane of the disk so that this second ring is concentric with the disk.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_11_04_Gyroscope.jpg"/>
 </media>
@@ -28,7 +30,7 @@
 <para id="fs-id1165038198551"><link target-id="CNX_UPhysics_11_04_Precess"/> shows the forces acting on a spinning top. The torque produced is perpendicular to the angular momentum vector. This changes the direction of the angular momentum vector <m:math><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>L</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:math> according to <m:math><m:mrow><m:mi>d</m:mi><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>L</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>=</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>τ</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mi>d</m:mi><m:mi>t</m:mi><m:mo>,</m:mo></m:mrow></m:math> but not its magnitude. The top <emphasis effect="italics">precesses</emphasis> around a vertical axis, since the torque is always horizontal and perpendicular to <m:math><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>L</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:math>. If the top is <emphasis effect="italics">not</emphasis> spinning, it acquires angular momentum in the direction of the torque, and it rotates around a horizontal axis, falling over just as we would expect.</para>
 <figure id="CNX_UPhysics_11_04_Precess">
 <media id="fs-id1165038056074" alt="An x y z coordinate system is show, with x out of the page, y to the right, and z up. The origin is point O. A top is shown with its point at the origin and its axis tilted by an angle theta away from the vertical z axis, clockwise as we view it. The vector r extends from the origin to the center of the mass, labeled as C M, of the top. The force M g acts downward at the center of mass. The torque, tau, about the origin is equal to vector r crossed with M vector g. This torque is a vector in the x y plane, perpendicular to the r vector, into the page. The angular velocity, omega, of the top is counterclockwise as viewed from above. The angular momentum, L, is in the same direction as the r vector, tilted up along the axis of the top. The circle traced by the precession of the top is shown as a horizontal circle above the top. The precession angular velocity omega sub p is counterclockwise as viewed from above. The radius of the precession circle is L sine theta. The vector d L is tangent to the circle, pointing into the page, and is equal to vector tau d t. The triangle formed L sine theta and d L is shown, and the angle across from d L is labeled as d phi.">
-<image mime-type="image/jpeg" src="CNX_UPhysics_11_04_Precess.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_UPhysics_11_04_Precess.jpg"/>
 </media>
 <caption>The force of gravity acting on the center of mass produces a torque <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>τ</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math> in the direction perpendicular to <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>L</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>.</m:mo></m:mrow></m:math> The magnitude of <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>L</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math> doesn’t change but its direction does, and the top precesses about the <emphasis effect="italics">z</emphasis>-axis.</caption>
 </figure>
@@ -40,7 +42,7 @@
 <caption>(a) A person holding the spinning bike wheel lifts it with her right hand and pushes down with her left hand in an attempt to rotate the wheel. This action creates a torque directly toward her. This torque causes a change in angular momentum <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>L</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math> in exactly the same direction. (b) A vector diagram depicting how <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>L</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>L</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math> add, producing a new angular momentum pointing more toward the person. The wheel moves toward the person, perpendicular to the forces she exerts on it.</caption>
 </figure>
 <para id="fs-id1165038173514">We all know how easy it is for a bicycle to tip over when sitting on it at rest. But when riding the bicycle at a good pace, tipping it over involves changing the angular momentum vector of the spinning wheels.</para><note id="fs-id1165038229883" class="media-2">
-<para id="fs-id1165037000048">View the video on <link url="https://openstax.org/l/21gyrovideo">gyroscope precession</link> for a complete demonstration of precession of the bicycle wheel.</para>
+<para id="fs-id1165037000048">View the video on <link url="https://openstaxcollege.org/l/21gyrovideo">gyroscope precession</link> for a complete demonstration of precession of the bicycle wheel.</para>
 </note>
 <para id="fs-id1165038310722">Also, when a spinning disk is put in a box such as a Blu-Ray player, try to move it. It is easy to translate the box in a given direction but difficult to rotate it about an axis perpendicular to the axis of the spinning disk, since we are putting a torque on the box that will cause the angular momentum vector of the spinning disk to precess.</para>
 <para id="fs-id1165038356976">We can calculate the precession rate of the top in <link target-id="CNX_UPhysics_11_04_Precess"/>. From <link target-id="CNX_UPhysics_11_04_Precess"/>, we see that the magnitude of the torque is</para>
@@ -379,7 +381,7 @@ At <m:math><m:mrow><m:mi>ω</m:mi><m:mo>=</m:mo><m:mn>10.0</m:mn><m:mspace width
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1165036763778">
 <term>precession</term>

@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58774</md:content-id>
   <md:title>The Standard Model</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para> 
+  <md:abstract>By the end of this section, you will be able to: 
 <list>
 <item>Describe the Standard Model in terms of the four fundamental forces and exchange particles</item>
 <item>Draw a Feynman diagram for a simple particle interaction</item>
@@ -79,7 +79,8 @@
 </section>
 <section id="fs-id1172098464630">
 <title>Electromagnetic Force</title>
-<para id="fs-id1172100664328">According to QED, the electromagnetic force is transmitted between charged particles through the exchange of photons. The theory is based on three basic processes: An electron travels from one place to the next, emits or absorbs a photon, and travels from one place to another again. When two electrons interact, one electron emits the photon and the other receives it (<link target-id="CNX_UPhysics_44_05_FeynEM"/>). Photons transfer energy and momentum from one electron to the other. The net result in this case is a repulsive force. The photons exchanged are virtual. A <term>virtual particle</term> is a particle that exists for too short a time to be observable. Since the photon transit time <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>t</m:mi></m:mrow></m:math> is extremely small, Heisenberg’s uncertainty principle states that the uncertainty in the photon’s energy, <m:math><m:mrow><m:mi>Δ</m:mi><m:mi>E</m:mi><m:mo>,</m:mo></m:mrow></m:math> may be very large.</para><figure id="CNX_UPhysics_44_05_FeynEM">
+<para id="fs-id1172100664328">According to QED, the electromagnetic force is transmitted between charged particles through the exchange of photons. The theory is based on three basic processes: An electron travels from one place to the next, emits or absorbs a photon, and travels from one place to another again. When two electrons interact, one electron emits the photon and the other receives it (<link target-id="CNX_UPhysics_44_05_FeynEM"/>). Photons transfer energy and momentum from one electron to the other. The net result in this case is a repulsive force. The photons exchanged are virtual. A <term>virtual particle</term> is a particle that exists for too short a time to be observable. Virtual photons may violate the law of conservation of energy. To see this, consider that if the photon transit time <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>t</m:mi></m:mrow></m:math> is extremely small, then Heisenberg’s uncertainty principle states that the uncertainly in the photon’s energy, <m:math><m:mrow><m:mi>Δ</m:mi><m:mi>E</m:mi><m:mo>,</m:mo></m:mrow></m:math> may be very large.</para>
+<figure id="CNX_UPhysics_44_05_FeynEM">
 <media id="fs-id1172100626548" alt="Figure shows four arrows labeled e minus. One goes up and right and meets the base of another arrow going up and left. To the right of this is an arrow going up and left. The tip meets the base of another arrow going up and right. The two junctions on the graph are connected by a wavy line labeled virtual photon. This points right and slightly up.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_44_05_FeynEM.jpg"/>
 </media>

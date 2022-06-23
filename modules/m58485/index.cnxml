@@ -14,7 +14,7 @@
 <content>
 <para id="fs-id1172101904658">In this section, we study simple models of ac voltage sources connected to three circuit components: (1) a resistor, (2) a capacitor, and (3) an inductor. The power furnished by an ac voltage source has an emf given by</para>
 <equation id="fs-id1172101907714" class="unnumbered"><label/><m:math><m:mrow><m:mi>v</m:mi><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:msub><m:mi>V</m:mi><m:mn>0</m:mn></m:msub><m:mspace width="0.2em"/><m:mtext>sin</m:mtext><m:mspace width="0.2em"/><m:mi>ω</m:mi><m:mi>t</m:mi><m:mo>,</m:mo></m:mrow></m:math></equation>
-<para id="fs-id1172101927817">as shown in <link target-id="CNX_UPhysics_32_02_acout"/>. This sine function assumes we start recording the voltage when it is <m:math><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow></m:math> at a time of <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math> A phase constant may be involved that shifts the function when we start measuring voltages, similar to the phase constant in the waves we studied in <link document="m58367">Waves</link>. However, because we are free to choose when we start examining the voltage, we can ignore this phase constant for now. We can measure this voltage across the circuit components using one of two methods: (1) a quantitative approach based on our knowledge of circuits, or (2) a graphical approach that is explained in the coming sections.</para>
+<para id="fs-id1172101927817">as shown in <link target-id="CNX_UPhysics_32_02_acout"/>. This sine function assumes we start recording the voltage when it is <m:math><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow></m:math> at a time of <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math> A phase constant may be involved that shifts the function when we start measuring voltages, similar to the phase constant in the waves we studied in <link class="target-chapter" document="m58367">Waves</link>. However, because we are free to choose when we start examining the voltage, we can ignore this phase constant for now. We can measure this voltage across the circuit components using one of two methods: (1) a quantitative approach based on our knowledge of circuits, or (2) a graphical approach that is explained in the coming sections.</para>
 <figure id="CNX_UPhysics_32_02_acout">
 <media id="fs-id1172101890377" alt="Figure shows a sine wave with maximum and minimum values of the voltage being V0 and minus V0 respectively. Each positive slope of the wave, at the x-axis, marks one complete wavelength. These points are labeled in sequence: 2 pi by omega, 4 pi by omega and 6 pi by omega.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_32_02_acout.jpg"/>
@@ -110,7 +110,7 @@
 <caption>The phasor diagram for the inductor of <link target-id="CNX_UPhysics_32_02_acinduct"/>. The current phasor lags the voltage phasor by <m:math><m:mrow><m:mrow><m:mi>π</m:mi><m:mtext>/</m:mtext><m:mn>2</m:mn></m:mrow></m:mrow></m:math> rad as they both rotate with the same angular frequency.</caption>
 </figure>
 <note id="fs-id1172101731993" class="media-2">
-<para id="fs-id1172101731996">An animation from the University of New South Wales <link url="https://openstax.org/l/21accircuits">AC Circuits</link> illustrates some of the concepts we discuss in this chapter. They also include wave and phasor diagrams that evolve over time so that you can get a better picture of how each changes over time.</para>
+<para id="fs-id1172101731996">An animation from the University of New South Wales <link url="https://openstaxcollege.org/l/21accircuits">AC Circuits</link> illustrates some of the concepts we discuss in this chapter. They also include wave and phasor diagrams that evolve over time so that you can get a better picture of how each changes over time.</para>
 </note>
 <example id="fs-id1172101788195">
 <para id="fs-id1172101788197"><title>Simple AC Circuits</title>
@@ -232,7 +232,7 @@ Although the voltage across each device is the same, the peak current has differ
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1172101988128">
 <term>capacitive reactance</term>

@@ -1,14 +1,14 @@
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
 
-<title>The Greek Alphabet</title>
+<title>Appendix G: The Greek Alphabet</title>
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58620</md:content-id>
-  <md:title>The Greek Alphabet</md:title>
+  <md:title>Appendix G: The Greek Alphabet</md:title>
   <md:abstract/>
   <md:uuid>6c3696fa-67d5-42be-9541-8b53f33a7084</md:uuid>
 </metadata>
 
-<content class="appendix">
+<content>
 <table id="fs-id1171242375768" summary="This table shows the names and symbols in capital and lower case for the Greek Alphabet. The names are: Alpha, Beta, Gamma, Delta, Epsilon, Zeta, Eta, Theta, Iota, Kappa, Lambda, Mu, Nu, Xi, Omicron, Pi, Rho, Sigma, Tau, Upsilon, Phi, Chi, Psi and Omega.">
 <title>The Greek Alphabet</title>
 <tgroup cols="6">
@@ -128,5 +128,5 @@
 </tbody>
 </tgroup>
 </table>
-  </content>
+</content>
 </document>

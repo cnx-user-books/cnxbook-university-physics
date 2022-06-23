@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58277</md:content-id>
   <md:title>Scalars and Vectors</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Describe the difference between vector and scalar quantities.</item>
 <item>Identify the magnitude and direction of a vector.</item>
@@ -207,7 +207,7 @@ For parts (a) and (b), we attach the origin of vector <m:math><m:mstyle mathvari
 </exercise>
 </note>
 <note id="fs-id1167133568457" class="media-2">
-<para id="fs-id1167133568461">Observe the addition of vectors in a plane by visiting this <link url="https://openstax.org/l/21compveccalc">vector calculator</link> and this <link url="https://openstax.org/l/21phetvecaddsim">Phet simulation</link>.</para>
+<para id="fs-id1167133568461">Observe the addition of vectors in a plane by visiting this <link url="https://openstaxcollege.org/l/21compveccalc">vector calculator</link> and this <link url="https://openstaxcollege.org/l/21phetvecaddsim">Phet simulation</link>.</para>
 </note>
 </section>
 <section id="fs-id1167133772309" class="key-concepts">
@@ -336,12 +336,14 @@ For parts (a) and (b), we attach the origin of vector <m:math><m:mstyle mathvari
 <para id="fs-id1167132559180">30.8 m, <m:math><m:mrow><m:mn>35.7</m:mn><m:mtext>°</m:mtext></m:mrow></m:math> west of north</para>
 </solution>
 </exercise>
-<exercise id="fs-id1167132309641"><problem id="fs-id1167132296118">
+<exercise id="fs-id1167132309641">
+<problem id="fs-id1167132296118">
 <para id="fs-id1167132296120">For the vectors given in the following figure, use a graphical method to find the following resultants: (a) <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>+</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math>, (b) <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>C</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>+</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math>, (c) <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>D</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>+</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math>, (d) <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>−</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math>, (e) <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>D</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>−</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math>, (f) <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>+</m:mo><m:mn>2</m:mn><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math>, (g)<m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>C</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>−</m:mo><m:mn>2</m:mn><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>D</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>+</m:mo><m:mn>3</m:mn><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math>; and (h) <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>A</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>−</m:mo><m:mn>4</m:mn><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>D</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>+</m:mo><m:mn>2</m:mn><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math>.</para><media id="fs-id1167132294810" alt="The x y coordinate system is shown, with positive x to the right and positive y up. Vector A has magnitude 10.0 and makes an angle of 30 degrees above the positive x direction. Vector B has magnitude 5.0 and makes an angle of 53 degrees above the positive x direction. Vector C has magnitude 12.0 and makes an angle of 60 degrees below the positive x direction. Vector D has magnitude 20.0 and makes an angle of 37 degrees above the negative x direction. Vector F has magnitude 20.0 and makes an angle of 30 degrees below the negative x direction.">
-<image mime-type="image/jpeg" src="../../media/02_01.jpg"/>
+<image mime-type="image/jpeg" src="../../media/CNX_UPhysics_02_01_problems_img.jpg"/>
 </media>
 </problem>
-</exercise><exercise id="fs-id1167133740645">
+</exercise>
+<exercise id="fs-id1167133740645">
 <problem id="fs-id1167133740647">
 <para id="fs-id1167133740649">A delivery man starts at the post office, drives 40 km north, then 20 km west, then 60 km northeast, and finally 50 km north to stop for lunch. Use a graphical method to find his net displacement vector.</para>
 </problem>
@@ -397,7 +399,7 @@ For parts (a) and (b), we attach the origin of vector <m:math><m:mstyle mathvari
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167132688517">
 <term>antiparallel vectors</term>

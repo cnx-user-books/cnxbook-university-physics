@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58482</md:content-id>
   <md:title>Applications of Electromagnetic Induction</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract>By the end of this section, you will be able to: 
+<list>
 <item>Explain how computer hard drives and graphic tablets operate using magnetic induction</item>
 <item>Explain how hybrid/electric vehicles and transcranial magnetic stimulation use magnetic induction to their advantage</item>
 </list></md:abstract>
@@ -21,12 +22,12 @@
 
 <caption>A tablet with a specially designed pen to write with is another application of magnetic induction. (credit: Jane Whitney)</caption></figure><para id="fs-id1171242179418">Another application of induction is the magnetic stripe on the back of your personal <term class="no-emphasis">credit card</term> as used at the grocery store or the ATM machine. This works on the same principle as the audio or video tape, in which a playback head reads personal information from your card.</para>
 <note id="fs-id1171242414407" class="media-2">
-<para id="fs-id1171242434035">Check out this <link url="https://openstax.org/l/21flashmagind">video</link> to see how flashlights can use magnetic induction. A magnet moves by your mechanical work through a wire. The induced current charges a capacitor that stores the charge that will light the lightbulb even while you are not doing this mechanical work.</para>
+<para id="fs-id1171242434035">Check out this <link url="https://openstaxcollege.org/l/21flashmagind">video</link> to see how flashlights can use magnetic induction. A magnet moves by your mechanical work through a wire. The induced current charges a capacitor that stores the charge that will light the lightbulb even while you are not doing this mechanical work.</para>
 </note>
 <para id="fs-id1171242302835">Electric and <term class="no-emphasis">hybrid vehicles</term> also take advantage of electromagnetic induction. One limiting factor that inhibits widespread acceptance of 100% electric vehicles is that the lifetime of the battery is not as long as the time you get to drive on a full tank of gas. To increase the amount of charge in the battery during driving, the motor can act as a generator whenever the car is braking, taking advantage of the back emf produced. This extra emf can be newly acquired stored energy in the car’s battery, prolonging the life of the battery.</para>
 <para id="fs-id1171242514878">Another contemporary area of research in which electromagnetic induction is being successfully implemented is <term class="no-emphasis">transcranial magnetic stimulation (TMS)</term>. A host of disorders, including depression and hallucinations, can be traced to irregular localized electrical activity in the brain. In transcranial magnetic stimulation, a rapidly varying and very localized magnetic field is placed close to certain sites identified in the brain. The usage of TMS as a diagnostic technique is well established.</para>
 <note id="fs-id1171242554120" class="media-2">
-<para id="fs-id1171242475549">Check out this <link url="https://openstax.org/l/21randrelectro">Youtube video</link> to see how rock-and-roll instruments like electric guitars use electromagnetic induction to get those strong beats.</para>
+<para id="fs-id1171242475549">Check out this <link url="https://openstaxcollege.org/l/21randrelectro">Youtube video</link> to see how rock-and-roll instruments like electric guitars use electromagnetic induction to get those strong beats.</para>
 </note>
 <section id="fs-id1171242571706" class="key-concepts">
 <title>Summary</title>
@@ -72,7 +73,8 @@
 </media>
 </problem>
 <solution id="fs-id1171242362173">
-<para id="fs-id1171242158523">4.8 × 10<sup>6</sup> A/s</para></solution>
+<para id="fs-id1171242158523">3.0 A/s</para>
+</solution>
 </exercise>
 <exercise id="fs-id1171242561521">
 <problem id="fs-id1171242460974">
@@ -179,7 +181,8 @@ c. <m:math><m:mrow><m:msub><m:mi>ε</m:mi><m:mtext>i</m:mtext></m:msub><m:mo>=</
 <para id="fs-id1171242610337">A circular copper disk of radius 7.5 cm rotates at 2400 rpm around the axis through its center and perpendicular to its face. The disk is in a uniform magnetic field <m:math><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:math> of strength 1.2 T that is directed along the axis. What is the potential difference between the rim and the axis of the disk?</para>
 </problem>
 <solution id="fs-id1171242148094">
-<para id="fs-id1171242340547">0.848 V</para></solution>
+<para id="fs-id1171242340547">5.3 V</para>
+</solution>
 </exercise>
 <exercise id="fs-id1171242168587">
 <problem id="fs-id1171242394956">
@@ -216,7 +219,8 @@ c. <m:math><m:mrow><m:msub><m:mi>ε</m:mi><m:mtext>i</m:mtext></m:msub><m:mo>=</
 </media>
 </problem>
 <solution id="fs-id1171242152964">
-<para id="fs-id1171242152966">a. <m:math><m:mrow><m:mn>1.01</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup><m:mtext>V</m:mtext></m:mrow></m:math>; b. <m:math><m:mrow><m:mn>1.37</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−7</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow></m:math>; c. 0 V</para></solution>
+<para id="fs-id1171242152966">a. <m:math><m:mrow><m:mn>1.26</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−7</m:mn></m:mrow></m:msup><m:mtext>V</m:mtext></m:mrow></m:math>; b. <m:math><m:mrow><m:mn>1.71</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−8</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>V</m:mtext></m:mrow></m:math>; c. 0 V</para>
+</solution>
 </exercise>
 <exercise id="fs-id1171242085284">
 <problem id="fs-id1171242085286">
@@ -287,7 +291,7 @@ e. no, because there is no cylindrical symmetry</para>
 </exercise>
 <exercise id="fs-id1171242540848">
 <problem id="fs-id1171242540850">
-<para id="fs-id1171242413011">A rectangular copper loop of mass 100 g and resistance <m:math><m:mrow><m:mn>0</m:mn><m:mtext>.2</m:mtext><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow></m:math> is in a region of uniform magnetic field that is perpendicular to the area enclosed by the ring and horizontal to Earth’s surface (see below). The loop is let go from rest when it is at the edge of the nonzero magnetic field region. (a) Find an expression for the speed when the loop just exits the region of uniform magnetic field. (b) If it was let go at <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>, what is the time when it exits the region of magnetic field for the following values: <m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>25</m:mn><m:mspace width="0.2em"/><m:mtext>cm,</m:mtext><m:mspace width="0.2em"/><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>50</m:mn><m:mspace width="0.2em"/><m:mtext>cm,</m:mtext><m:mspace width="0.2em"/><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>T</m:mtext></m:mrow></m:math>, <m:math><m:mrow><m:mi>g</m:mi><m:mo>=</m:mo><m:mn>9.8</m:mn><m:msup><m:mrow><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math>?</para>
+<para id="fs-id1171242413011">A rectangular copper loop of mass 100 g and resistance <m:math><m:mrow><m:mn>0</m:mn><m:mtext>.2</m:mtext><m:mspace width="0.2em"/><m:mtext>Ω</m:mtext></m:mrow></m:math> is in a region of uniform magnetic field that is perpendicular to the area enclosed by the ring and horizontal to Earth’s surface (see below). The loop is let go from rest when it is at the edge of the nonzero magnetic field region. (a) Find an expression for the speed when the loop just exits the region of uniform magnetic field. (b) If it was let go at <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>, what is the time when it exits the region of magnetic field for the following values: <m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>25</m:mn><m:mspace width="0.2em"/><m:mtext>cm,</m:mtext><m:mspace width="0.2em"/><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>50</m:mn><m:mspace width="0.2em"/><m:mtext>cm,</m:mtext><m:mspace width="0.2em"/><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>T</m:mtext></m:mrow></m:math>, <m:math><m:mrow><m:mi>g</m:mi><m:mo>=</m:mo><m:mn>9.8</m:mn><m:msup><m:mrow><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math>? Assume that the magnetic field of the induced current is negligible compared to 3 T.</para>
 <media id="fs-id1171242438355" alt="Figure A shows rectangular loop with the sides a and b in a region of uniform magnetic field that is perpendicular to the area enclosed by the loop and horizontal to Earth’s surface. Figure B shows rectangular loop that due to the force of gravity left a region of uniform magnetic field.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_30_60pr_img.jpg"/>
 </media>
@@ -305,10 +309,10 @@ e. no, because there is no cylindrical symmetry</para>
 </solution>
 </exercise>
 <exercise id="fs-id1171242163823"><problem id="fs-id1171242163825">
-<para id="fs-id1171242420219">A time-dependent uniform magnetic field of magnitude <emphasis effect="italics">B</emphasis>(<emphasis effect="italics">t</emphasis>) is confined in a cylindrical region of radius <emphasis effect="italics">R</emphasis>. A conducting rod of length 2<emphasis effect="italics">D</emphasis> is placed in the region, as shown below. Show that the emf between the ends of the rod is given by <m:math><m:mrow><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>B</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac><m:mi>D</m:mi><m:msqrt><m:mrow><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>D</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math>. (<emphasis effect="italics">Hint:</emphasis> To find the emf between the ends, we need to integrate the electric field from one end to the other. To find the electric field, use Faraday’s law as “Ampère’s law for <emphasis effect="italics">E</emphasis>.”)</para> <media id="fs-id1171242238355" alt="A cylindrical region has a time varying magnetic field pointing out of the page through the end caps of the cylinder. A rod of length 2D fits along the walls of the cylinder and touches the walls at points P1 and P2.">
+<para id="fs-id1171242420219">A time-dependent uniform magnetic field of magnitude <emphasis effect="italics">B</emphasis>(<emphasis effect="italics">t</emphasis>) is confined in a cylindrical region of radius <emphasis effect="italics">R</emphasis>. A conducting rod of length 2<emphasis effect="italics">D</emphasis> is placed in the region, as shown below. Show that the emf between the ends of the rod is given by <m:math><m:mrow><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>B</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac><m:mi>D</m:mi><m:msqrt><m:mrow><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>D</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:msqrt></m:mrow></m:math>. (<emphasis effect="italics">Hint:</emphasis> To find the emf between the ends, we need to integrate the electric field from one end to the other. To find the electric field, use Faraday’s law as “Ampère’s law for <emphasis effect="italics">E</emphasis>.”)</para> <media id="fs-id1171242238355" alt="">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_30_62pr_img_new.jpg"/>
 </media>
 </problem>
 </exercise></section>
- </content>
+</content>
 </document>

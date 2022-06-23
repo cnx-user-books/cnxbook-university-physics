@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58498</md:content-id>
   <md:title>Plane Electromagnetic Waves</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract>By the end of this section, you will be able to: 
+<list>
 <item>Describe how Maxwell’s equations predict the relative directions of the electric fields and magnetic fields, and the direction of propagation of plane electromagnetic waves</item>
 <item>Explain how Maxwell’s equations predict that the speed of propagation of electromagnetic waves in free space is exactly the speed of light</item>
 <item>Calculate the relative magnitude of the electric and magnetic fields in an electromagnetic plane wave</item>
@@ -56,7 +57,8 @@
 <para id="fs-id1171241113562">Canceling <m:math><m:mrow><m:mi>l</m:mi><m:mtext>Δ</m:mtext><m:mi>x</m:mi></m:mrow></m:math> and taking the limit as <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>, we are left with</para>
 <equation id="fs-id1171241109489"><m:math><m:mrow><m:mfrac><m:mrow><m:mo>∂</m:mo><m:msub><m:mi>E</m:mi><m:mi>y</m:mi></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>t</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mo>∂</m:mo><m:mi>x</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mrow><m:mo>∂</m:mo><m:msub><m:mi>B</m:mi><m:mi>z</m:mi></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>t</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mo>∂</m:mo><m:mi>t</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
 <para id="fs-id1171241323506">We could have applied Faraday’s law instead to the top surface (numbered 2) in <link target-id="CNX_UPhysics_33_02_GaussBox2"/>, to obtain the resulting equation</para>
-<equation id="fs-id1171241124682"><m:math><m:mrow><m:mfrac><m:mrow><m:mo>∂</m:mo><m:msub><m:mi>E</m:mi><m:mi>z</m:mi></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>t</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mo>∂</m:mo><m:mi>x</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mo>∂</m:mo><m:msub><m:mi>B</m:mi><m:mi>y</m:mi></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>t</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mo>∂</m:mo><m:mi>t</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation><para id="fs-id1171241112701">This is the equation describing the spatially dependent <emphasis effect="italics">E</emphasis> field produced by the time-dependent <emphasis effect="italics">B</emphasis> field.</para>
+<equation id="fs-id1171241124682"><m:math><m:mrow><m:mfrac><m:mrow><m:mo>∂</m:mo><m:msub><m:mi>E</m:mi><m:mi>z</m:mi></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>t</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mo>∂</m:mo><m:mi>x</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mrow><m:mo>∂</m:mo><m:msub><m:mi>B</m:mi><m:mi>y</m:mi></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>t</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow><m:mrow><m:mo>∂</m:mo><m:mi>t</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
+<para id="fs-id1171241112701">This is the equation describing the spatially dependent <emphasis effect="italics">E</emphasis> field produced by the time-dependent <emphasis effect="italics">B</emphasis> field.</para>
 <para id="fs-id1171241162677">Next we apply the Ampère-Maxwell law (with <m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>) over the same two faces (Surface 3 and then Surface 2) of the rectangular box of <link target-id="CNX_UPhysics_33_02_GaussBox2"/>. Applying <link document="m58496" target-id="fs-id1171242162638"/>,</para>
 <equation id="fs-id1171241257268" class="unnumbered"><label/><m:math><m:mrow><m:mstyle displaystyle="true"><m:mrow><m:mo>∮</m:mo><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>B</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>·</m:mo><m:mi>d</m:mi><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>s</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mo>=</m:mo><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:msub><m:mi>ε</m:mi><m:mn>0</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>d</m:mi><m:mtext>/</m:mtext><m:mi>d</m:mi><m:mi>t</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mstyle displaystyle="true"><m:mrow><m:munder><m:mo>∫</m:mo><m:mi>S</m:mi></m:munder><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>E</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>·</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mi>n</m:mi></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mspace width="0.2em"/><m:mi>d</m:mi><m:mi>a</m:mi></m:mrow></m:math></equation>
 <para id="fs-id1171238960426">to Surface 3, and then to Surface 2, yields the two equations</para>
@@ -155,7 +157,7 @@ The <emphasis effect="italics">B</emphasis>-field strength is less than a tenth 
 <para id="fs-id1171238777147">The electric field lines in one plane are shown. The magnetic field is perpendicular to this plane. This radiation field has cylindrical symmetry around the axis of the dipole. Field lines near the dipole are not shown. The pattern is not at all uniform in all directions. The strongest signal is in directions perpendicular to the axis of the antenna, which would be horizontal if the antenna is mounted vertically. There is zero intensity along the axis of the antenna. The fields detected far from the antenna are from the changing electric and magnetic fields inducing each other and traveling as electromagnetic waves. Far from the antenna, the wave fronts, or surfaces of equal phase for the electromagnetic wave, are almost spherical. Even farther from the antenna, the radiation propagates like electromagnetic plane waves.</para>
 <para id="fs-id1171239087972">The electromagnetic waves carry energy away from their source, similar to a sound wave carrying energy away from a standing wave on a guitar string. An antenna for receiving electromagnetic signals works in reverse. Incoming electromagnetic waves induce oscillating currents in the antenna, each at its own frequency. The radio receiver includes a tuner circuit, whose resonant frequency can be adjusted. The tuner responds strongly to the desired frequency but not others, allowing the user to tune to the desired broadcast. Electrical components amplify the signal formed by the moving electrons. The signal is then converted into an audio and/or video format.</para>
 <note id="fs-id1171241069035" class="media-2">
-<para id="fs-id1171239075225">Use this <link url="https://openstax.org/l/21radwavsim">simulation</link> to broadcast radio waves. Wiggle the transmitter electron manually or have it oscillate automatically. Display the field as a curve or vectors. The strip chart shows the electron positions at the transmitter and at the receiver.</para>
+<para id="fs-id1171239075225">Use this <link url="https://openstaxcollege.org/l/21radwavsim">simulation</link> to broadcast radio waves. Wiggle the transmitter electron manually or have it oscillate automatically. Display the field as a curve or vectors. The strip chart shows the electron positions at the transmitter and at the receiver.</para>
 </note>
 </section>
 <section id="fs-id1171241097868" class="key-concepts">
@@ -200,13 +202,15 @@ The <emphasis effect="italics">B</emphasis>-field strength is less than a tenth 
 <para id="fs-id1171238741570">A steady current in a dc circuit will not produce electromagnetic waves. If the magnitude of the current varies while remaining in the same direction, the wires will emit electromagnetic waves, for example, if the current is turned on or off.</para>
 </solution>
 </exercise>
-<exercise id="fs-id1171241197606"><problem id="fs-id1171241197608">
+<exercise id="fs-id1171241197606">
+<problem id="fs-id1171241197608">
 <para id="fs-id1171241342940">Shown below is the interference pattern of two radio antennas broadcasting the same signal. Explain how this is analogous to the interference pattern for sound produced by two speakers. Could this be used to make a directional antenna system that broadcasts preferentially in certain directions? Explain.</para>
-<media id="fs-id1171239075218" alt="Figure shows waves as circles radiating from two points lying side by side. The points where the circles intersect are highlighted and labeled constructive interference. Arrows connecting the points of constructive interference radiate outwards. These are labeled direction of constructive interference.">
+<media id="fs-id1171239075218" alt="Figure shows waves as circles radiating from two points lying side by side. The points where the circles intersect are higlighted and labeled constructive interference. Arrows connecting the points of constructive interference radiate outwards. These are labeled direction of constructive interference.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_33_02_ExFig3_img.jpg"/>
 </media>
 </problem>
-</exercise></section>
+</exercise>
+</section>
 <section id="fs-id1171241328051" class="review-problems">
 <title>Problems</title>
 <exercise id="fs-id1171241094374">
@@ -267,5 +271,5 @@ The wave is passing through a wide tube of circular cross-section of radius <emp
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 </document>

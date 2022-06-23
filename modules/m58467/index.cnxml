@@ -3,7 +3,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58467</md:content-id>
   <md:title>Magnetism in Matter</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract>By the end of this section, you will be able to: 
+<list>
 <item>Classify magnetic materials as paramagnetic, diamagnetic, or ferromagnetic, based on their response to a magnetic field</item>
 <item>Sketch how magnetic dipoles align with the magnetic field in each type of substance</item>
 <item>Define hysteresis and magnetic susceptibility, which determines the type of magnetic material</item>
@@ -161,7 +162,7 @@
 <para id="fs-id1166168351617">A magnetic field always induces a magnetic dipole in an atom. This induced dipole points opposite to the applied field, so its magnetic field is also directed opposite to the applied field. In paramagnetic and ferromagnetic materials, the induced magnetic dipole is masked by much stronger permanent magnetic dipoles of the atoms. However, in diamagnetic materials, whose atoms have no permanent magnetic dipole moments, the effect of the induced dipole is observable.</para>
 <para id="fs-id1166168173625">We can now describe the magnetic effects of diamagnetic materials with the same model developed for paramagnetic materials. In this case, however, the fictitious surface current flows opposite to the solenoid current, and the magnetic susceptibility <m:math><m:mi>χ</m:mi></m:math> is negative. Values of <m:math><m:mi>χ</m:mi></m:math> for some diamagnetic materials are also given in <link target-id="fs-id1166168213796"/>.</para>
 <note id="fs-id1166168125016" class="media-2">
-<para id="fs-id1166168251077">Water is a common diamagnetic material. Animals are mostly composed of water. Experiments have been performed on <link url="https://openstax.org/l/21frogs">frogs</link> and <link url="https://openstax.org/l/21mice">mice</link> in diverging magnetic fields. The water molecules are repelled from the applied magnetic field against gravity until the animal reaches an equilibrium. The result is that the animal is levitated by the magnetic field.</para>
+<para id="fs-id1166168251077">Water is a common diamagnetic material. Animals are mostly composed of water. Experiments have been performed on <link url="https://openstaxcollege.org/l/21frogs">frogs</link> and <link url="https://openstaxcollege.org/l/21mice">mice</link> in diverging magnetic fields. The water molecules are repelled from the applied magnetic field against gravity until the animal reaches an equilibrium. The result is that the animal is levitated by the magnetic field.</para>
 </note>
 </section>
 <section id="fs-id1166168451014">
@@ -209,10 +210,10 @@ A long coil is tightly wound around an iron cylinder whose magnetization curve i
 (a) The magnetic field of a solenoid is calculated using <link document="m58466" target-id="fs-id1166167134612"/>. (b) The graph is read to determine the net magnetic field for this same current. (c) The magnetic susceptibility is calculated using <link target-id="fs-id1166168125628"/>.</para>
 <para id="fs-id1168329196390"><title>Solution</title></para>
 <list id="fs-id1171361186280" list-type="enumerated" number-style="lower-alpha">
-<item>The applied field <m:math><m:mrow><m:msub><m:mi>B</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:math> of the coil is
+<item>The applied field <m:math><m:mrow><m:msub><m:mi>B</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:math> of the coil is<newline/>
 <equation id="fs-id1168329434783" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>B</m:mi><m:mn>0</m:mn></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mi>n</m:mi><m:msub><m:mi>I</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mi>π</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−7</m:mn></m:mrow></m:msup><m:mtext>T</m:mtext><m:mo>·</m:mo><m:mtext>m/A</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>2000</m:mn><m:mspace width="0.1em"/><m:mtext>/</m:mtext><m:mspace width="0.1em"/><m:mtext>m</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0.20</m:mn><m:mspace width="0.2em"/><m:mtext>A</m:mtext><m:mo stretchy="false">)</m:mo></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>B</m:mi><m:mn>0</m:mn></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>5.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup><m:mtext>T</m:mtext><m:mo>.</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation></item>
 <item>From inspection of the magnetization curve of <link target-id="CNX_UPhysics_29_07_Biron"/>, we see that, for this value of <m:math><m:mrow><m:msub><m:mi>B</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo></m:mrow></m:math> <m:math><m:mrow><m:mi>B</m:mi><m:mo>=</m:mo><m:mn>1.4</m:mn><m:mspace width="0.2em"/><m:mtext>T</m:mtext><m:mo>.</m:mo></m:mrow></m:math> Notice that the internal field of the aligned atoms is much larger than the externally applied field.</item>
-<item>The magnetic susceptibility is calculated to be 
+<item>The magnetic susceptibility is calculated to be<newline/>
 <equation id="fs-id1166168617199" class="unnumbered"><label/><m:math><m:mrow><m:mi>χ</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>B</m:mi><m:mrow><m:msub><m:mi>B</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mo>−</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>1.4</m:mn><m:mspace width="0.2em"/><m:mtext>T</m:mtext></m:mrow><m:mrow><m:mn>5.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup><m:mtext>T</m:mtext></m:mrow></m:mfrac><m:mtext>−1</m:mtext><m:mo>=</m:mo><m:mn>2.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></equation>
 </item>
 </list>
@@ -346,7 +347,8 @@ Ferromagnetic materials have susceptibilities in the range of <m:math><m:mrow><m
 </exercise>
 <exercise id="fs-id1166168409195">
 <problem id="fs-id1166168409197">
-<para id="fs-id1166168409199">A current of 1.5 A flows through the windings of a large, thin toroid with 200 turns per meter and a radius of 1 meter. If the toroid is filled with iron for which <m:math><m:mrow><m:mi>χ</m:mi><m:mo>=</m:mo><m:mn>3.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math> what is the magnetic field within it?</para></problem>
+<para id="fs-id1166168409199">A current of 1.5 A flows through the windings of a large, thin toroid with 200 turns per meter. If the toroid is filled with iron for which <m:math><m:mrow><m:mi>χ</m:mi><m:mo>=</m:mo><m:mn>3.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math> what is the magnetic field within it?</para>
+</problem>
 <solution id="fs-id1166168343602">
 <para id="fs-id1166168343604">0.18 T</para>
 </solution>
@@ -417,7 +419,8 @@ Ferromagnetic materials have susceptibilities in the range of <m:math><m:mrow><m
 </exercise>
 <exercise id="fs-id1166167108730">
 <problem id="fs-id1166166092508">
-<para id="fs-id1166166092510">How is the fractional change in the strength of the magnetic field across the face of the toroid related to the fractional change in the radial distance from the axis of the toroid?</para></problem>
+<para id="fs-id1166166092510">How is the percentage change in the strength of the magnetic field across the face of the toroid related to the percentage change in the radial distance from the axis of the toroid?</para>
+</problem>
 <solution id="fs-id1166167375376">
 <para id="fs-id1166167375378"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>B</m:mi></m:mrow><m:mi>B</m:mi></m:mfrac><m:mo>=</m:mo><m:mo>−</m:mo><m:mspace width="0.05em"/><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>r</m:mi></m:mrow><m:mi>r</m:mi></m:mfrac></m:mrow></m:math></para>
 </solution>
@@ -432,7 +435,8 @@ Ferromagnetic materials have susceptibilities in the range of <m:math><m:mrow><m
 <para id="fs-id1166167076341">A toroid with an inner radius of 20 cm and an outer radius of 22 cm is tightly wound with one layer of wire that has a diameter of 0.25 mm. (a) How many turns are there on the toroid? (b) If the current through the toroid windings is 2.0 A, what is the strength of the magnetic field at the center of the toroid?</para>
 </problem>
 <solution id="fs-id1166167064465">
-<para id="fs-id1166167388172">a. 5026 turns; b. 0.00957 T</para></solution>
+<para id="fs-id1166167388172">a. 52778 turns; b. 0.10 T</para>
+</solution>
 </exercise>
 <exercise id="fs-id1166168318816">
 <problem id="fs-id1166168318818">
@@ -471,7 +475,8 @@ Ferromagnetic materials have susceptibilities in the range of <m:math><m:mrow><m
 </exercise>
 <exercise id="fs-id1166168477031">
 <problem id="fs-id1166168184312">
-<para id="fs-id1166168184314">Consider the axial magnetic field <m:math><m:mrow><m:msub><m:mi>B</m:mi><m:mi>y</m:mi></m:msub><m:mo>=</m:mo><m:mrow><m:mrow><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mi>I</m:mi><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mtext>/</m:mtext><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mrow><m:mo>+</m:mo><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mo stretchy="false">)</m:mo><m:mrow><m:mn>3</m:mn><m:mtext>/</m:mtext><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math> of the circular current loop shown below. (a) Evaluate <m:math><m:mrow><m:mstyle displaystyle="true"><m:mrow><m:msubsup><m:mo>∫</m:mo><m:mrow><m:mtext>−</m:mtext><m:mi>a</m:mi></m:mrow><m:mi>a</m:mi></m:msubsup><m:mrow><m:msub><m:mi>B</m:mi><m:mi>y</m:mi></m:msub><m:mi>d</m:mi><m:mi>y</m:mi><m:mo>.</m:mo></m:mrow></m:mrow></m:mstyle></m:mrow></m:math> Also show that <m:math><m:mrow><m:munder><m:mrow><m:mtext>lim</m:mtext></m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">→</m:mo><m:mi>∞</m:mi></m:mrow></m:munder><m:mstyle displaystyle="true"><m:mrow><m:msubsup><m:mo>∫</m:mo><m:mrow><m:mtext>−</m:mtext><m:mi>a</m:mi></m:mrow><m:mi>a</m:mi></m:msubsup><m:mrow><m:msub><m:mi>B</m:mi><m:mi>y</m:mi></m:msub></m:mrow></m:mrow></m:mstyle><m:mi>d</m:mi><m:mi>y</m:mi><m:mo>=</m:mo><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mi>I</m:mi><m:mo>.</m:mo></m:mrow></m:math> (b) Can you deduce this limit without evaluating the integral? (<emphasis effect="italics">Hint:</emphasis> See the accompanying figure.)</para><media id="fs-id1166168620409" alt="This picture shows the circular current loop I with the magnetic field B perpendicular to the plane of the loop.">
+<para id="fs-id1166168184314">Consider the axial magnetic field <m:math><m:mrow><m:msub><m:mi>B</m:mi><m:mi>v</m:mi></m:msub><m:mo>=</m:mo><m:mrow><m:mrow><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mi>I</m:mi><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mtext>/</m:mtext><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mrow><m:mo>+</m:mo><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup><m:msup><m:mo stretchy="false">)</m:mo><m:mrow><m:mn>3</m:mn><m:mtext>/</m:mtext><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math> of the circular current loop shown below. (a) Evaluate <m:math><m:mrow><m:mstyle displaystyle="true"><m:mrow><m:msubsup><m:mo>∫</m:mo><m:mrow><m:mtext>−</m:mtext><m:mi>a</m:mi></m:mrow><m:mi>a</m:mi></m:msubsup><m:mrow><m:msub><m:mi>B</m:mi><m:mi>y</m:mi></m:msub><m:mi>d</m:mi><m:mi>y</m:mi><m:mo>.</m:mo></m:mrow></m:mrow></m:mstyle></m:mrow></m:math> Also show that <m:math><m:mrow><m:munder><m:mrow><m:mtext>lim</m:mtext></m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">→</m:mo><m:mi>∞</m:mi></m:mrow></m:munder><m:mstyle displaystyle="true"><m:mrow><m:msubsup><m:mo>∫</m:mo><m:mrow><m:mtext>−</m:mtext><m:mi>a</m:mi></m:mrow><m:mi>a</m:mi></m:msubsup><m:mrow><m:msub><m:mi>B</m:mi><m:mi>y</m:mi></m:msub></m:mrow></m:mrow></m:mstyle><m:mi>d</m:mi><m:mi>y</m:mi><m:mo>=</m:mo><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mi>I</m:mi><m:mo>.</m:mo></m:mrow></m:math> (b) Can you deduce this limit without evaluating the integral? (<emphasis effect="italics">Hint:</emphasis> See the accompanying figure.)</para>
+<media id="fs-id1166168620409" alt="This picture shows the circular current loop I with the magnetic field B perpendicular to the plane of the loop.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_29_08_Pr63_img.jpg"/>
 </media>
 </problem>
@@ -539,7 +544,7 @@ Ferromagnetic materials have susceptibilities in the range of <m:math><m:mrow><m
 </problem>
 </exercise>
 <exercise id="fs-id1166164826688"><problem id="fs-id1166164826690">
-<para id="fs-id1166164826693">Magnetic field inside a torus. Consider a torus of rectangular cross-section with inner radius <emphasis effect="italics">a</emphasis> and outer radius <emphasis effect="italics">b</emphasis>. <emphasis effect="italics">N</emphasis> turns of an insulated thin wire are wound evenly on the torus tightly all around the torus and connected to a battery producing a steady current <emphasis effect="italics">I</emphasis> in the wire. Assume that the current on the top and bottom surfaces in the figure is radial, and the current on the inner and outer radii surfaces is vertical. Find the magnetic field inside the torus as a function of radial distance <emphasis effect="italics">r</emphasis> from the axis.</para> <media id="fs-id1262164776985" alt="Figure shows a torus or donut-like shape with an inner radius of 'a' and outer radius of 'b'. Insulated wire of 'N' turns are wound evenly around the torus and connected to a battery (not shown).">
+<para id="fs-id1166164826693">Magnetic field inside a torus. Consider a torus of rectangular cross-section with inner radius <emphasis effect="italics">a</emphasis> and outer radius <emphasis effect="italics">b</emphasis>. <emphasis effect="italics">N</emphasis> turns of an insulated thin wire are wound evenly on the torus tightly all around the torus and connected to a battery producing a steady current <emphasis effect="italics">I</emphasis> in the wire. Assume that the current on the top and bottom surfaces in the figure is radial, and the current on the inner and outer radii surfaces is vertical. Find the magnetic field inside the torus as a function of radial distance <emphasis effect="italics">r</emphasis> from the axis.</para> <media id="fs-id1262164776985" alt="">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_29_08_Pr75_img.jpg"/>
 </media>
 </problem>
@@ -565,7 +570,8 @@ Ferromagnetic materials have susceptibilities in the range of <m:math><m:mrow><m
 </media>
 </problem>
 <solution id="fs-id1166168118152">
-<para id="fs-id1166168118154"><m:math><m:mrow><m:mi>B</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mi>I</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>π</m:mi><m:mi>a</m:mi></m:mrow></m:mfrac><m:mtext>ln</m:mtext><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>a</m:mi></m:mrow><m:mi>x</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para></solution>
+<para id="fs-id1166168118154"><m:math><m:mrow><m:mi>B</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>μ</m:mi><m:mn>0</m:mn></m:msub><m:mi>I</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>π</m:mi><m:mi>x</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</solution>
 </exercise>
 <exercise id="fs-id1166168322666">
 <problem id="fs-id1166168322668">
@@ -584,7 +590,7 @@ Ferromagnetic materials have susceptibilities in the range of <m:math><m:mrow><m
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1166164819496">
 <term>diamagnetic materials</term>

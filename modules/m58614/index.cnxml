@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58614</md:content-id>
   <md:title>Medical Applications and Biological Effects of Nuclear Radiation</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Describe two medical uses of nuclear technology</item>
 <item>Explain the origin of biological effects due to nuclear radiation</item>
@@ -15,7 +15,8 @@
 </metadata>
 
 <content>
-<para id="fs-id1170903038590">Nuclear physics is an integral part of our everyday lives (<link target-id="CNX_UPhysics_43_07_NucPhysics"/>). Radioactive compounds are used to identify cancer, study ancient artifacts, and power our cities. Nuclear fusion also powers the Sun, the primary source of energy on Earth. The focus of this chapter is nuclear radiation. In this section, we ask such questions as: How is nuclear radiation used to benefit society? What are its health risks? How much nuclear radiation is the average person exposed to in a lifetime?</para><figure id="CNX_UPhysics_43_07_NucPhysics"><media id="fs-id1170902618621" alt="A photograph of a woman setting a mummy in a scanning machine.">
+<para id="fs-id1170903038590">Nuclear physics is an integral part of our everyday lives (<link target-id="CNX_UPhysics_43_07_NucPhysics"/>). Radioactive compounds are used in to identify cancer, study ancient artifacts, and power our cities. Nuclear fusion also powers the Sun, the primary source of energy on Earth. The focus of this chapter is nuclear radiation. In this section, we ask such questions as: How is nuclear radiation used to benefit society? What are its health risks? How much nuclear radiation is the average person exposed to in a lifetime?</para>
+<figure id="CNX_UPhysics_43_07_NucPhysics"><media id="fs-id1170902618621" alt="A photograph of a woman setting a mummy in a scanning machine.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_43_07_NucPhysics.jpg"/>
 </media>
 
@@ -27,7 +28,9 @@
 </media>
 
 <caption>These brain images are produced using a radiopharmaceutical. The colors indicate relative metabolic or biochemical activity (red indicates high activity and blue indicates low activity). The figure on the left shows the normal brain of an individual and the figure on the right shows the brain of someone diagnosed with Alzheimer’s disease. The brain image of the normal brain indicates much greater metabolic activity (a larger fraction of red and orange areas). (credit: modification of works by National Institutes of Health)</caption></figure><para id="fs-id1170902656150"><link target-id="fs-id1170902906690"/> lists some medical diagnostic uses of radiopharmaceuticals, including isotopes and typical activity (<emphasis effect="italics">A</emphasis>) levels. One common diagnostic test uses iodine to image the thyroid, since iodine is concentrated in that organ. Another common nuclear diagnostic is the thallium scan for the cardiovascular system, which reveals blockages in the coronary arteries and examines heart activity. The salt TlCl can be used because it acts like NaCl and follows the blood. Note that <link target-id="fs-id1170902906690"/> lists many diagnostic uses for <m:math><m:mrow><m:msup><m:mrow/><m:mrow><m:mtext>99m</m:mtext></m:mrow></m:msup><m:mtext>Tc</m:mtext></m:mrow></m:math>, where “m” stands for a metastable state of the technetium nucleus. This isotope is used in many compounds to image the skeleton, heart, lungs, and kidneys. About <m:math><m:mrow><m:mn>80</m:mn><m:mtext>%</m:mtext></m:mrow></m:math> of all radiopharmaceuticals employ <m:math><m:mrow><m:msup><m:mrow/><m:mrow><m:mtext>99m</m:mtext></m:mrow></m:msup><m:mtext>Tc</m:mtext></m:mrow></m:math> because it produces a single, easily identified, 0.142-MeV <m:math><m:mi>γ</m:mi></m:math> ray and has a short 6.0-h half-life, which reduces radiation exposure.</para>
-<table id="fs-id1170902906690" summary="This table shows the activity for different procedures and isotopes. The activity is in mCi, where 1 mCi is equal to 3.7 into 10 to the power 7 Bq. For procedure brain scan, the activity of 99mTc is 7.5 and that of 15O, PET is 50. For lung scan, the activity of 133Xe is 7.5 and that of 99mTc is 2. For cardiovascular blood pool, the activity of 131I is 0.2 and that of 9mTc is 2. For cardiovascular arterial flow, the activity of 201Tl is 3 and that of 24Na is 7.5. For thyroid scan, the activity of 131I is 0.05 and that of 123I is 0.07. For liver scan, the activity of 198 Au, colloid, is 0.1 and that of 99mTc, colloid is 2. For bone scan, the activity of 85Sr is 0.1 and that of 99mTc is 10. For kidney scan, the activity of 197Hg is 0.1 and that of 99mTc is 1.5."><title>Diagnostic Uses of Radiopharmaceuticals</title><tgroup cols="4">
+<table id="fs-id1170902906690" summary="This table shows the activity for different procedures and isotopes. The activity is in mCi, where 1 mCi is equal to 3.7 into 10 to the power 7 Bq. For procedure brain scan, the activity of 99mTc is 7.5 and that of 15O, PET is 50. For lung scan, the activity of 13Xe is 7.5 and that of 99mTc is 2. For cardiovascular blood pool, the activity of 131I is 0.2 and that of 9mTc is 2. For cardiovascular arterial flow, the activity of 201Tl is 3 and that of 24Na is 7.5. For thyroid scan, the activity of 131I is 0.05 and that of 123I is 0.07. For liver scan, the activity of 198 Au, colloid, is 0.1 and that of 99mTc, colloid is 2. For bone scan, the activity of 85Sr is 0.1 and that of 99mTc is 10. For kidney scan, the activity of 197Hg is 0.1 and that of 99mTc is 1.5.">
+<title>Diagnostic Uses of Radiopharmaceuticals</title>
+<tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>
@@ -62,7 +65,7 @@
 <entry valign="top" align="left" namest="c3" nameend="c4"><emphasis effect="italics">Liver scan</emphasis></entry>
 </row>
 <row valign="top">
-<entry valign="top" align="left"><m:math><m:mrow><m:msup><m:mrow/><m:mrow><m:mn>133</m:mn></m:mrow></m:msup><m:mtext>Xe</m:mtext></m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:msup><m:mrow/><m:mrow><m:mn>13</m:mn></m:mrow></m:msup><m:mtext>Xe</m:mtext></m:mrow></m:math></entry>
 <entry valign="top" align="right">7.5</entry>
 <entry valign="top" align="left"><m:math><m:mrow><m:msup><m:mrow/><m:mrow><m:mn>198</m:mn></m:mrow></m:msup><m:mtext>Au</m:mtext></m:mrow></m:math> (colloid)</entry>
 <entry valign="top" align="right">0.1</entry>
@@ -107,7 +110,8 @@
 </row>
 </tbody>
 </tgroup>
-</table><para id="fs-id1170902675745">The first radiation detectors produced two-dimensional images, like a photo taken from a camera. However, a circular array of detectors that can be rotated can be used to produce three-dimensional images. This technique is similar to that used in X-ray computed tomography (CT) scans. One application of this technique is called <term>single-photon-emission CT (SPECT)</term> (<link target-id="CNX_UPhysics_43_07_SPECT"/>). The spatial resolution of this technique is about 1 cm.</para>
+</table>
+<para id="fs-id1170902675745">The first radiation detectors produced two-dimensional images, like a photo taken from a camera. However, a circular array of detectors that can be rotated can be used to produce three-dimensional images. This technique is similar to that used in X-ray computed tomography (CT) scans. One application of this technique is called <term>single-photon-emission CT (SPECT)</term> (<link target-id="CNX_UPhysics_43_07_SPECT"/>). The spatial resolution of this technique is about 1 cm.</para>
 <figure id="CNX_UPhysics_43_07_SPECT">
 <media id="fs-id1170901575225" alt="A photograph of a person lying in an imaging machine.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_43_07_SPECT.jpg"/>
@@ -125,7 +129,7 @@
 </figure>
 <para id="fs-id1170901641956">PET scans are especially useful to examine the brain’s anatomy and function. For example, PET scans can be used to monitor the brain’s use of oxygen and water, identify regions of decreased metabolism (linked to Alzheimer’s disease), and locate different parts of the brain responsible for sight, speech, and fine motor activity</para>
 <note id="fs-id1170901600306" class="media-2">
-<para id="fs-id1170902768544">Is it a tumor? View an <link url="https://openstax.org/l/21simmagresimg">animation</link> of simplified magnetic resonance imaging (MRI) to see if you can tell. Your head is full of tiny radio transmitters (the nuclear spins of the hydrogen nuclei of your water molecules). In an MRI unit, these little radios can be made to broadcast their positions, giving a detailed picture of the inside of your head.</para>
+<para id="fs-id1170902768544">Is it a tumor? View an <link url="https://openstaxcollege.org/l/21simmagresimg">animation</link> of simplified magnetic resonance imaging (MRI) to see if you can tell. Your head is full of tiny radio transmitters (the nuclear spins of the hydrogen nuclei of your water molecules). In an MRI unit, these little radios can be made to broadcast their positions, giving a detailed picture of the inside of your head.</para>
 </note>
 </section>
 <section id="fs-id1170902788944">
@@ -640,7 +644,7 @@ The mass of <m:math><m:mrow><m:msup><m:mrow/><m:mrow><m:mn>137</m:mn></m:mrow></
 <para id="fs-id1170902792432">The ceramic glaze on a red-orange “Fiestaware” plate is <m:math><m:mrow><m:msub><m:mtext>U</m:mtext><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>3</m:mn></m:msub></m:mrow></m:math> and contains 50.0 grams of <m:math><m:mrow><m:msup><m:mrow/><m:mrow><m:mn>238</m:mn></m:mrow></m:msup><m:mtext>U</m:mtext></m:mrow></m:math>, but very little <m:math><m:mrow><m:msup><m:mrow/><m:mrow><m:mn>235</m:mn></m:mrow></m:msup><m:mtext>U</m:mtext></m:mrow></m:math>. (a) What is the activity of the plate? (b) Calculate the total energy that will be released by the <m:math><m:mrow><m:msup><m:mrow/><m:mrow><m:mn>238</m:mn></m:mrow></m:msup><m:mtext>U</m:mtext></m:mrow></m:math> decay. (c) If energy is worth 12.0 cents per <m:math><m:mrow><m:mtext>kW</m:mtext><m:mo>·</m:mo><m:mtext>h</m:mtext></m:mrow></m:math>, what is the monetary value of the energy emitted? (These brightly-colored ceramic plates went out of production some 30 years ago, but are still available as collectibles.)</para>
 </problem>
 <solution id="fs-id1170903117208">
-<para id="fs-id1170903064560">a. <m:math><m:mrow><m:mn>1.68</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>Ci</m:mtext></m:mrow></m:math>; (b) From <link document="m58615">Appendix B</link>, the energy released per decay is 4.27 MeV, so <m:math><m:mrow><m:mn>8.65</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J</m:mtext></m:mrow></m:math>; (c) The monetary value of the energy is <m:math><m:mrow><m:mtext>$</m:mtext><m:mn>2.9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
+<para id="fs-id1170903064560">a. <m:math><m:mrow><m:mn>1.68</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>Ci</m:mtext></m:mrow></m:math>; (b) From <link class="target-chapter" document="m58615">Appendix B</link>, the energy released per decay is 4.27 MeV, so <m:math><m:mrow><m:mn>8.65</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J</m:mtext></m:mrow></m:math>; (c) The monetary value of the energy is <m:math><m:mrow><m:mtext>$</m:mtext><m:mn>2.9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></para>
 </solution>
 </exercise>
 <exercise id="fs-id1170901538078">

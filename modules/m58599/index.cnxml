@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58599</md:content-id>
   <md:title>Band Theory of Solids</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Describe two main approaches to determining the energy levels of an electron in a crystal</item>
 <item>Explain the presence of energy bands and gaps in the energy structure of a crystal</item>
@@ -46,7 +46,7 @@
 <caption>Comparison of a conductor and insulator. The highest energy band is partially filled in a conductor but completely filled in an insulator.</caption>
 </figure>
 <note id="fs-id1172099417553" class="media-2">
-<para id="fs-id1172101673014">Visit this <link url="https://openstax.org/l/21bandstructure">simulation</link> to learn about the origin of energy bands in crystals of atoms and how the structure of bands determines how a material conducts electricity. Explore how band structure creates a lattice of many wells.</para>
+<para id="fs-id1172101673014">Visit this <link url="https://openstaxcollege.org/l/21bandstructure">simulation</link> to learn about the origin of energy bands in crystals of atoms and how the structure of bands determines how a material conducts electricity. Explore how band structure creates a lattice of many wells.</para>
 </note>
 <para id="fs-id1172099473560">A <term>semiconductor</term> has a similar energy structure to an insulator except it has a relatively small energy gap between the lowest completely filled band and the next available unfilled band. This type of material forms the basis of modern electronics. At <m:math><m:mrow><m:mi>T</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow></m:math>, the semiconductor and insulator both have completely filled bands. The only difference is in the size of the energy gap (or <emphasis effect="italics">band gap</emphasis>) <emphasis effect="italics">E<sub>g</sub></emphasis> between the highest energy band that is filled (the valence band) and the next-higher empty band (the conduction band). In a semiconductor, this gap is small enough that a substantial number of electrons from the valence band are thermally excited into the conduction band at room temperature. These electrons are then in a nearly empty band and can respond to an applied field. As a general rule of thumb, the band gap of a semiconductor is about 1 eV. (See <link target-id="fs-id1172099415754"/> for silicon.) A band gap of greater than approximately 1 eV is considered an insulator. For comparison, the energy gap of diamond (an insulator) is several electron-volts.</para>
 <table id="fs-id1172099415754" summary="This table has two columns, 9 rows and a header row. The header row labels each column material and energy gap E subscript g in eV. The first column has the following entries: Si, Ge, GaAs, GaP, GaSb, InAs, InP, InSb and C or diamond. The second column has the following values: 1.12, 0.67, 1.43, 2.26, 0.69, 0.35, 1.35, 0.16, 5.48.">

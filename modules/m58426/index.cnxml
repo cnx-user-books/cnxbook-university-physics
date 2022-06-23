@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58426</md:content-id>
   <md:title>Conductors in Electrostatic Equilibrium</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para> 
+  <md:abstract>By the end of this section, you will be able to: 
 <list>
 <item>Describe the electric field within a conductor at equilibrium</item>
 <item>Describe the electric field immediately outside the surface of a charged conductor at equilibrium</item>
@@ -525,7 +525,8 @@ Thus, <m:math><m:mrow><m:msub><m:mi>E</m:mi><m:mrow><m:mstyle mathvariant="bold"
 <para id="fs-id1172100835254">The Hubble Space Telescope can measure the energy flux from distant objects such as supernovae and stars. Scientists then use this data to calculate the energy emitted by that object. Choose an interstellar object which scientists have observed the flux at the Hubble with (for example, Vega<footnote id="fs-id1172100561452">http://adsabs.harvard.edu/abs/2004AJ....127.3508B</footnote>), find the distance to that object and the size of Hubble’s primary mirror, and calculate the total energy flux. (<emphasis effect="italics">Hint:</emphasis> The Hubble intercepts only a small part of the total flux.)</para>
 </problem>
 <solution id="fs-id1172100881625">
-<para id="fs-id1172096092662">Given the referenced link, using a distance to Vega of <m:math><m:mrow><m:mn>237</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>15</m:mn></m:mrow></m:msup></m:mrow></m:math> m<footnote id="fs-id1167742516713">http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-source=I/311&amp;HIP=91262</footnote> and a diameter of 2.4 m for the primary mirror,<footnote id="fs-id1167742516718">http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19910003124.pdf</footnote> we find that at a wavelength of 555.6 nm, Vega is emitting <m:math><m:mrow><m:mn>2.44</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>24</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J/s</m:mtext></m:mrow></m:math> at that wavelength. Note that the flux through the mirror is essentially constant.</para></solution>
+<para id="fs-id1172096092662">Given the referenced link, using a distance to Vega of <m:math><m:mrow><m:mn>237</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>15</m:mn></m:mrow></m:msup></m:mrow></m:math> m<footnote id="fs-id1167742516713">http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-source=I/311&amp;HIP=91262</footnote> and a diameter of 2.4 m for the primary mirror,<footnote id="fs-id1167742516718">http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19910003124.pdf</footnote> we find that at a wavelength of 555.6 nm, Vega is emitting <m:math><m:mrow><m:mn>1.1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>25</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J/s</m:mtext></m:mrow></m:math> at that wavelength. Note that the flux through the mirror is essentially constant.</para>
+</solution>
 </exercise>
 <exercise id="fs-id1172098586260">
 <problem id="fs-id1172100757892">
@@ -562,7 +563,7 @@ Thus, <m:math><m:mrow><m:msub><m:mi>E</m:mi><m:mrow><m:mstyle mathvariant="bold"
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1172100667579">
 <term>free electrons</term>

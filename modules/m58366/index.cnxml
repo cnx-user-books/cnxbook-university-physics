@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58366</md:content-id>
   <md:title>Forced Oscillations</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Define forced oscillations</item>
 <item>List the equations of motion associated with forced oscillations</item>
@@ -386,7 +386,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167131294649">
 <term>resonance</term>

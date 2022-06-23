@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58293</md:content-id>
   <md:title>Relative Motion in One and Two Dimensions</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Explain the concept of reference frames.</item>
 <item>Write the position and velocity vector equations for relative motion.</item>
@@ -537,7 +537,7 @@ The angle between <m:math><m:mrow><m:msub><m:mstyle mathvariant="bold" mathsize=
 b. <m:math><m:mrow><m:mrow><m:mo>|</m:mo><m:mrow><m:msub><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mrow><m:mi>T</m:mi><m:mi>C</m:mi></m:mrow></m:msub></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>=</m:mo><m:mn>17</m:mn><m:mspace width="0.2em"/><m:mtext>km</m:mtext></m:mrow></m:math></para></solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1165039252507">
 <term>reference frame</term>

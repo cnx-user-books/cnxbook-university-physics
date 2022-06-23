@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58330</md:content-id>
   <md:title>Calculating Moments of Inertia</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para> 
+  <md:abstract>By the end of this section, you will be able to: 
 <list>
 <item>Calculate the moment of inertia for uniformly shaped, rigid bodies</item>
 <item>Apply the parallel axis theorem to find the moment of inertia about any axis parallel to one already known</item>
@@ -307,7 +307,7 @@ Note that the angular velocity of the pendulum does not depend on its mass.</par
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167133686238">
 <term>linear mass density</term>

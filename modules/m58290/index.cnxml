@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58290</md:content-id>
   <md:title>Acceleration Vector</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Calculate the acceleration vector given the velocity function in unit vector notation.</item>
 <item>Describe the motion of a particle with a constant acceleration in three dimensions.</item>
@@ -51,7 +51,7 @@ We can gain some insight into the problem by looking at the position function. I
 <para id="fs-id1165038201315">(b) Taking the derivative of the velocity function, we find</para>
 <equation id="fs-id1165037855561" class="unnumbered"><label/><m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mstyle><m:mo stretchy="false">(</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>−2</m:mn><m:mstyle mathvariant="bold" mathsize="normal"><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>i</m:mi><m:mo>^</m:mo></m:mover></m:mstyle></m:mstyle><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></equation>
 <para id="fs-id1165038223396">The acceleration vector is a constant in the negative <emphasis effect="italics">x</emphasis>-direction.</para>
-<para id="fs-id1165038202149">(c) The trajectory of the particle can be seen in <link target-id="CNX_UPhysics_04_02_Trajectory"/>. Let’s look in the <emphasis effect="italics">y</emphasis> and <emphasis effect="italics">z</emphasis> directions first. The particle’s position increases steadily as a function of time with a constant velocity in these directions. In the <emphasis effect="italics">x</emphasis> direction, however, the particle follows a path in positive <emphasis effect="italics">x</emphasis> until <emphasis effect="italics">t</emphasis> = 5 s, when it reverses direction. We know this from looking at the velocity function, which becomes zero at this time and negative thereafter. We also know this because the acceleration is negative and constant—meaning, the particle is accelerating in the opposite direction. The particle’s position reaches 25 m, where it then reverses direction and begins to accelerate in the negative <emphasis effect="italics">x</emphasis> direction. The position reaches zero at <emphasis effect="italics">t</emphasis> = 10 s.</para>
+<para id="fs-id1165038202149">(c) The trajectory of the particle can be seen in <link target-id="CNX_UPhysics_04_02_Trajectory"/>. Let’s look in the <emphasis effect="italics">y</emphasis> and <emphasis effect="italics">z</emphasis> directions first. The particle’s position increases steadily as a function of time with a constant velocity in these directions. In the <emphasis effect="italics">x</emphasis> direction, however, the particle follows a path in positive <emphasis effect="italics">x</emphasis> until <emphasis effect="italics">t</emphasis> = 5 s, when it reverses direction. We know this from looking at the velocity function, which becomes zero at this time and negative thereafter. We also know this because the acceleration is negative and constant—meaning, the particle is decelerating, or accelerating in the negative direction. The particle’s position reaches 25 m, where it then reverses direction and begins to accelerate in the negative <emphasis effect="italics">x</emphasis> direction. The position reaches zero at <emphasis effect="italics">t</emphasis> = 10 s.</para>
 <figure id="CNX_UPhysics_04_02_Trajectory">
 <media id="fs-id1165038033628" alt="An x y z coordinate system is shown. All the axes show distance in meters and run from -50 to 50 meters. A series of 10 red dots are shown, with the sixth dot is labeled as t = 6 s and the tenth as t = 10 s. The red series of dots starts at the origin and curves upward (both y and z increasing with time). Vertical dashed lines connect the red dots to a series of blue dots in the x y plane. The blue dots are all in the first quadrant (positive x and y). The dots are regularly spaced along the y coordinate, while the x coordinate starts at 0, increases, reaches a maximum of x = 25 m at t = 5, and then decreases back to x = 0 at t 10 s.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_04_02_Trajectory.jpg"/>
@@ -215,7 +215,7 @@ e. <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accen
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1165038340465">
 <term>acceleration vector</term>

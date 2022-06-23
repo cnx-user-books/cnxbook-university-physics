@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58310</md:content-id>
   <md:title>Power</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Relate the work done during a time interval to the power delivered</item>
 <item>Find the power expended by a force acting on a moving body</item>
@@ -255,7 +255,7 @@ This is a reasonable amount of power for the engine of a small to mid-size car t
 </exercise>
 <exercise id="fs-id1165037165337">
 <problem id="fs-id1165038154368">
-<para id="fs-id1165037968816">Coal is lifted out of a mine a vertical distance of 50 m by an engine that supplies 500 W to a conveyor belt. How much coal per minute can be brought to the surface? Ignore the effects of friction.</para>
+<para id="fs-id1165037968816">Coal is lifted out of a mine a vertical distance of 50 m by an engine that supplies 500 W to a conveyer belt. How much coal per minute can be brought to the surface? Ignore the effects of friction.</para>
 </problem>
 </exercise>
 <exercise id="fs-id1165038158851">
@@ -462,7 +462,7 @@ This is a reasonable amount of power for the engine of a small to mid-size car t
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1165038026773">
 <term>average power</term>

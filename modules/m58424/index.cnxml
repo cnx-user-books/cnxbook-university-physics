@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58424</md:content-id>
   <md:title>Explaining Gauss’s Law</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to: 
 <list>
 <item>State Gauss’s law</item>
 <item>Explain the conditions under which Gauss’s law may be used</item>
@@ -123,8 +123,8 @@ In the special case of a closed surface, the flux calculations become a sum of c
 <section id="fs-id1172098443383" class="key-concepts">
 <title>Summary</title>
 <list id="fs-id1172098403304" list-type="bulleted" bullet-style="bullet">
-<item>Gauss’s law relates the electric flux through a closed surface to the net charge within that surface, 
-<equation id="fs-id1172098628943" class="unnumbered"><label/><m:math><m:mrow><m:mtext>Φ</m:mtext><m:mo>=</m:mo><m:mstyle displaystyle="true"><m:mrow><m:msub><m:mo>∮</m:mo><m:mi>S</m:mi></m:msub><m:mrow><m:mover accent="true"><m:mstyle mathvariant="bold" mathsize="normal"><m:mtext>E</m:mtext></m:mstyle><m:mo stretchy="true">→</m:mo></m:mover><m:mo>·</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mtext>n</m:mtext><m:mo>^</m:mo></m:mover></m:mstyle><m:mspace width="0.2em"/><m:mi>d</m:mi><m:mi>A</m:mi><m:mo>=</m:mo></m:mrow></m:mrow></m:mstyle><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>enc</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>ε</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math></equation>
+<item>Gauss’s law relates the electric flux through a closed surface to the net charge within that surface,<newline/>
+<equation id="fs-id1172098628943" class="unnumbered"><label/><m:math><m:mrow><m:mtext>Φ</m:mtext><m:mo>=</m:mo><m:mstyle displaystyle="true"><m:mrow><m:msub><m:mo>∮</m:mo><m:mi>S</m:mi></m:msub><m:mrow><m:mover accent="true"><m:mstyle mathvariant="bold" mathsize="normal"><m:mtext>E</m:mtext></m:mstyle><m:mo stretchy="true">→</m:mo></m:mover><m:mo>·</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mtext>n</m:mtext><m:mo>^</m:mo></m:mover></m:mstyle><m:mspace width="0.2em"/><m:mi>d</m:mi><m:mi>A</m:mi><m:mo>=</m:mo></m:mrow></m:mrow></m:mstyle><m:mfrac><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>enc</m:mtext></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>ε</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math></equation><newline/>
 where <m:math><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>enc</m:mtext></m:mrow></m:msub></m:mrow></m:math> is the total charge inside the Gaussian surface <emphasis effect="italics">S</emphasis>.</item>
 <item>All surfaces that include the same amount of charge have the same number of field lines crossing it, regardless of the shape or size of the surface, as long as the surfaces enclose the same amount of charge.</item>
 </list>
@@ -267,7 +267,7 @@ d. <m:math><m:mrow><m:mtext>Φ</m:mtext><m:mo>=</m:mo><m:mn>90.4</m:mn><m:mspace
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1172100551861">
 <term>Gaussian surface</term>

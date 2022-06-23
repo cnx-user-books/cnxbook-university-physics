@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58426</md:content-id>
   <md:title>Conductors in Electrostatic Equilibrium</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para> 
+  <md:abstract>By the end of this section, you will be able to: 
 <list>
 <item>Describe the electric field within a conductor at equilibrium</item>
 <item>Describe the electric field immediately outside the surface of a charged conductor at equilibrium</item>
@@ -562,7 +562,7 @@ Thus, <m:math><m:mrow><m:msub><m:mi>E</m:mi><m:mrow><m:mstyle mathvariant="bold"
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1172100667579">
 <term>free electrons</term>

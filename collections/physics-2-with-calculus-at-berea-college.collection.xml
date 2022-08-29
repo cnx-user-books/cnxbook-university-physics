@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="OpenStax University Physics">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col29687</md:content-id>
     <md:title>Physics 2 with Calculus at Berea College</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>e9d1e473-dcdc-47b1-bf7a-0f84a2e896da</md:uuid>
-<md:slug>physics-2-with-calculus-at-berea-college</md:slug>
-</metadata>
+    <md:slug>physics-2-with-calculus-at-berea-college</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Unit 2 Waves and Acoustics</md:title>
